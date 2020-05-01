@@ -1,0 +1,2 @@
+rootProject.name='Chatter Room'
+include ':app'

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "598253286091",
+    "firebase_url": "https://chatter-room-6faab.firebaseio.com",
+    "project_id": "chatter-room-6faab",
+    "storage_bucket": "chatter-room-6faab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598253286091:android:9c6e923d374f4e7df0a14e",
+        "android_client_info": {
+          "package_name": "com.shanmathi.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598253286091-1rs6mvpvhp5rrd4kta32etnu4upq146k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCO4UYJ4xlFM_0gcoscL60iXsEy5hgBB-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598253286091-1rs6mvpvhp5rrd4kta32etnu4upq146k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
